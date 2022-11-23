@@ -3,7 +3,7 @@
 A simple example of jhonny five + socket by Leonardo Angelucci
 
 # Arduino 
-<img src="http://johnny-five.io/img/breadboard/potentiometer.png" width="300">
+<img src="http://johnny-five.io/img/breadboard/potentiometer.png" width="450">
 
 
 ## Node js
