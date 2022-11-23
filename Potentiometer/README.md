@@ -33,5 +33,11 @@ Open the folder on visual studio code <br/>
 $ npm start
 ```
 ## Browse
-http://localhost:3000/
+http://localhost:3000/<br/>
+
+## Resources
+<a href="https://www.arduino.cc/en/software">Arduino IDE</a><br/>
+<a href="http://johnny-five.io/">Johnny-five</a><br/>
+<a href="https://nodejs.org/en/">Node js</a><br/>
+<a href="https://code.visualstudio.com/">Visual studio code</a>
 
