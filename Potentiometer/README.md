@@ -10,6 +10,8 @@ A simple example of jhonny five + socket by Leonardo Angelucci
 Install Node.js >= 0.10.x <br />
 Install Xcode<br />
 Install node-gyp npm install -g node-gyp<br />
+<a href="https://www.youtube.com/watch?v=TQks1p7xjdI">If you have problems look here: node js</a><br/>
+<a href="https://www.youtube.com/watch?v=lG9FNv8Txn8">If you have problems look here: xcode</a
 
 ## Arduino
 Open Arduino IDE<br />
