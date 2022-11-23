@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding-bottom: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#rect {
+  width: 40vh;
+  height: 40vh;
+  background-color: #000;
+  transform: rotate(0deg);
+  transform-origin: center center;
+  margin-left: -10vh;
+}
