@@ -6,10 +6,22 @@ A simple example of jhonny five + socket by Leonardo Angelucci
 <img src="http://johnny-five.io/img/breadboard/potentiometer.png" width="300">
 
 
-## How to use
+## Node js
+Install Node.js >= 0.10.x <br />
+Install Xcode<br />
+Install node-gyp npm install -g node-gyp<br />
 
+## Arduino
+Open Arduino IDE<br />
+Verify correct port and board<br />
+Navigate to File > Examples > Firmata > StandardFirmataPlus<br />
+Load sketch onto board.<br />
+
+
+## How to use
 ```
-$ npm start <br/>
-Then open your browser http://localhost:3000/
+$ npm start
 ```
+## Browse
+http://localhost:3000/
 
