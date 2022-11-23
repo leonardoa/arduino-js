@@ -28,6 +28,7 @@ Load sketch onto board.<br />
 <a href="https://www.youtube.com/watch?v=2L8YYJpfuvE">If you have problems look here.</a>
 
 ## How to use
+Open the folder on visual studio code <br/>
 ```
 $ npm start
 ```
