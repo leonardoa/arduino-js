@@ -1,16 +1,15 @@
 
-# Socket.IO + Jhonny five
-Potentiometer
+# Potentiometer: Socket.IO + Jhonny five
 A simple example of jhonny five + socket by Leonardo Angelucci
 
 # Arduino 
-![alt text](http://johnny-five.io/img/breadboard/potentiometer.png)
-
+<img src="http://johnny-five.io/img/breadboard/potentiometer.png" width="300">
 
 
 ## How to use
 
 ```
-$ npm start and then http://localhost:3000/
+$ npm start <br/>
+Then open your browser http://localhost:3000/
 ```
 
