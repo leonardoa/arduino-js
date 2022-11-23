@@ -16,7 +16,7 @@ Open Arduino IDE<br />
 Verify correct port and board<br />
 Navigate to File > Examples > Firmata > StandardFirmataPlus<br />
 Load sketch onto board.<br />
-
+<a href="https://www.youtube.com/watch?v=2L8YYJpfuvE">If you have problems look here.</a>
 
 ## How to use
 ```
