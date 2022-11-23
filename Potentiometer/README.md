@@ -5,7 +5,6 @@ A simple example of jhonny five + socket by Leonardo Angelucci
 # Arduino 
 <img src="http://johnny-five.io/img/breadboard/potentiometer.png" width="450">
 
-
 ## Node js
 Install Node.js >= 0.10.x <br />
 <a href="https://www.youtube.com/watch?v=TQks1p7xjdI">If you have problems look here: node js</a><br />
@@ -17,8 +16,6 @@ Install node-gyp npm install -g node-gyp
 ```
 $ npm node-gyp npm install -g node-gyp
 ```
-
-
 
 ## Arduino
 Open Arduino IDE<br />
