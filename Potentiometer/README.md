@@ -14,7 +14,7 @@ Install Xcode<br />
 
 Install node-gyp npm install -g node-gyp
 ```
-$ npm node-gyp npm install -g node-gyp
+npm install node-gyp npm install -g node-gyp
 ```
 
 ## Arduino
