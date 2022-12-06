@@ -1,9 +1,9 @@
 
-# Potentiometer: Socket.IO + Jhonny five
-A simple example of jhonny five + socket by Leonardo Angelucci
+# Joystick: Socket.IO + Jhonny five
+A simple example of jhonny five + socket + ML by Leonardo Angelucci
 
 # Arduino 
-<img src="http://johnny-five.io/img/breadboard/potentiometer.png" width="450">
+<img src="http://johnny-five.io/img/breadboard/joystick-sparkfun.png" width="450">
 
 ## Node js
 Install Node.js >= 0.10.x <br />
