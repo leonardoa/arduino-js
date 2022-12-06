@@ -1,0 +1,17 @@
+{
+  "name": "jhonny five + arduino",
+  "version": "0.0.0",
+  "description": "A simple example of arduino + johnny five",
+  "main": "index.js",
+  "author": "Leonardo Angelucci",
+  "private": true,
+  "license": "",
+  "dependencies": {
+    "johnny-five": "^2.1.0",
+    "express": "~4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
