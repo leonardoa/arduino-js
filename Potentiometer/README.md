@@ -27,7 +27,7 @@ Load sketch onto board.<br />
 ## How to use
 Open the folder on visual studio code <br/>
 ```
-$ npm start
+npm start
 ```
 ## Browse
 http://localhost:3000/<br/>
